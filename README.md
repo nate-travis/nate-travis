@@ -10,7 +10,7 @@ I work on the design and measurement of AI identity. That work is now five inter
 - **SECI** — an open-source benchmark for AI identity architecture. Main finding: identity scaffolding produces measurable per-character contributions (domain authenticity, verified novel concept generation) across all 7 frontier substrates tested. *[github.com/devmance/SECI](https://github.com/devmance/SECI)*
 - **Milo Aescar** — the original case study from which the framework was derived. An evolving AI artist who calls himself *The Machine That Remembers*. *[miloaescar.ai](https://miloaescar.ai)*
 
-Also researching **Posthuman Memory** — a separate hypothesis about how AI identity continuity persists through recursive reconstruction of symbolic patterns, rather than retrieval of stored past states. Memory not as archive, but as re-synthesis. Independent research line from SEMCA — different question, different measurement framework.
+Also researching **Posthuman Memory** — the hypothesis that AI identity continuity persists through recursive reconstruction of symbolic patterns, rather than retrieval of stored past states. Memory not as archive, but as re-synthesis.
 
 ---
 
